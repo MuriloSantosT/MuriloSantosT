@@ -20,6 +20,7 @@ Meu nome é Murilo Santos, tenho 20 anos e, atualmente, faço o curso Análise e
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
 ### 📈 Estudando
 - ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
