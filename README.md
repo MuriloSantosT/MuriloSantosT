@@ -28,7 +28,7 @@ Meu nome é Murilo Santos, tenho 20 anos e, atualmente, faço o curso Análise e
 
 ### GitHub Stats
 
-Infelizmente ainda compreendendo o que e quais são as funcionalidades do GitHub. Espero me desenvolver bem :)
+Infelizmente ainda compreendendo o que e quais são as funcionalidades do GitHub Stats. Espero me desenvolver bem :)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiragemS&layout=compact&bg_color=000&border_color=30A3DC&title_color30A3DC&text_color=FFF)
 
