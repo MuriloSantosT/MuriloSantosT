@@ -29,7 +29,7 @@ Olá!! meu nome é Murilo Santos e, atualmente, faço o curso Análise e Desenvo
 
 ### GitHub Stats
 
-Infelizmente ainda compreendendo o que e quais são as funcionalidades do GitHub Stats. Espero me desenvolver bem :)
+Infelizmente ainda compreendendo o que e quais são as funcionalidades do GitHub Stats. 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloSantosT&layout=compact&bg_color=000&border_color=30A3DC&title_color30A3DC&text_color=FFF)
 
