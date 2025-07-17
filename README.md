@@ -4,7 +4,7 @@
 - 💻 Informática para Internet | Etec
 - 🧠 Explorando novas linguagens e suas respectivas áreas
 
-Olá!! meu nome é Murilo Santos e, atualmente, faço o curso Análise e Desenvolvimento de Sistemas pela Faculdade Tecnológica de Campinas. Busco com entusiasmo conhecer e explorar as áreas que a programação tem a oferecer, no entanto, tenho grande interesse no conceito de Data Analytics, C# e Java.
+Olá!! meu nome é Murilo Santos e, atualmente, faço o curso Análise e Desenvolvimento de Sistemas pela Faculdade Tecnológica de Campinas. 
   
 ### 🛠️ Ferramentas e Linguagens conhecidas
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
